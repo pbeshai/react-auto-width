@@ -1,4 +1,7 @@
 # react-auto-width
+
+[![npm version](https://badge.fury.io/js/react-auto-width.svg)](https://badge.fury.io/js/react-auto-width)
+
 A React component to set the width of a child component to its parent's width
 
 ### Install
